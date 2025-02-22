@@ -56,6 +56,9 @@ result = fetal_health_prediction(*data)
 print(f"Predicted fetal health: {result}")
 ```
 
+## 🌍 Live Deployment
+You can access the **temporary deployed version** of this project here: **[Bodhi Fetal Health Predictor](https://bodhi-three.vercel.app/)**
+
 ## 📈 Model Performance
 - **Accuracy of Gradient Boosting Classifier**: ~ **97%**
 - **Confusion Matrix & Classification Report** included in results
@@ -74,3 +77,4 @@ This project is licensed under the **MIT License**.
 ---
 
 ### 🌟 If you find this project helpful, please ⭐ the repository!
+
